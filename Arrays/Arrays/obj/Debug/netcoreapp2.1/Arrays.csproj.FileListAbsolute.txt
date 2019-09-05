@@ -1,0 +1,10 @@
+C:\Users\nwalton\source\repos\Test_project\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.deps.json
+C:\Users\nwalton\source\repos\Test_project\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.runtimeconfig.json
+C:\Users\nwalton\source\repos\Test_project\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.runtimeconfig.dev.json
+C:\Users\nwalton\source\repos\Test_project\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.dll
+C:\Users\nwalton\source\repos\Test_project\Arrays\Arrays\bin\Debug\netcoreapp2.1\Arrays.pdb
+C:\Users\nwalton\source\repos\Test_project\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\nwalton\source\repos\Test_project\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\nwalton\source\repos\Test_project\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.AssemblyInfo.cs
+C:\Users\nwalton\source\repos\Test_project\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.dll
+C:\Users\nwalton\source\repos\Test_project\Arrays\Arrays\obj\Debug\netcoreapp2.1\Arrays.pdb

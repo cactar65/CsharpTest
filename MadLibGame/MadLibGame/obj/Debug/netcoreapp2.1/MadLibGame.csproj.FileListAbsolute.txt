@@ -1,0 +1,10 @@
+C:\Users\nwalton\source\repos\Test_project\MadLibGame\MadLibGame\bin\Debug\netcoreapp2.1\MadLibGame.deps.json
+C:\Users\nwalton\source\repos\Test_project\MadLibGame\MadLibGame\bin\Debug\netcoreapp2.1\MadLibGame.runtimeconfig.json
+C:\Users\nwalton\source\repos\Test_project\MadLibGame\MadLibGame\bin\Debug\netcoreapp2.1\MadLibGame.runtimeconfig.dev.json
+C:\Users\nwalton\source\repos\Test_project\MadLibGame\MadLibGame\bin\Debug\netcoreapp2.1\MadLibGame.dll
+C:\Users\nwalton\source\repos\Test_project\MadLibGame\MadLibGame\bin\Debug\netcoreapp2.1\MadLibGame.pdb
+C:\Users\nwalton\source\repos\Test_project\MadLibGame\MadLibGame\obj\Debug\netcoreapp2.1\MadLibGame.csproj.CoreCompileInputs.cache
+C:\Users\nwalton\source\repos\Test_project\MadLibGame\MadLibGame\obj\Debug\netcoreapp2.1\MadLibGame.AssemblyInfoInputs.cache
+C:\Users\nwalton\source\repos\Test_project\MadLibGame\MadLibGame\obj\Debug\netcoreapp2.1\MadLibGame.AssemblyInfo.cs
+C:\Users\nwalton\source\repos\Test_project\MadLibGame\MadLibGame\obj\Debug\netcoreapp2.1\MadLibGame.dll
+C:\Users\nwalton\source\repos\Test_project\MadLibGame\MadLibGame\obj\Debug\netcoreapp2.1\MadLibGame.pdb

@@ -1,0 +1,11 @@
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.deps.json
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.runtimeconfig.json
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.runtimeconfig.dev.json
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.dll
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\bin\Debug\netcoreapp2.1\Methods.pdb
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.csprojAssemblyReference.cache
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.AssemblyInfoInputs.cache
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.AssemblyInfo.cs
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.dll
+C:\Users\nwalton\source\repos\Test_project\Methods\Methods\obj\Debug\netcoreapp2.1\Methods.pdb

@@ -1,0 +1,11 @@
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\bin\Debug\netcoreapp2.1\Userinput.deps.json
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\bin\Debug\netcoreapp2.1\Userinput.runtimeconfig.json
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\bin\Debug\netcoreapp2.1\Userinput.runtimeconfig.dev.json
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\bin\Debug\netcoreapp2.1\Userinput.dll
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\bin\Debug\netcoreapp2.1\Userinput.pdb
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\obj\Debug\netcoreapp2.1\Userinput.csprojAssemblyReference.cache
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\obj\Debug\netcoreapp2.1\Userinput.csproj.CoreCompileInputs.cache
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\obj\Debug\netcoreapp2.1\Userinput.AssemblyInfoInputs.cache
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\obj\Debug\netcoreapp2.1\Userinput.AssemblyInfo.cs
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\obj\Debug\netcoreapp2.1\Userinput.dll
+C:\Users\nwalton\source\repos\Test_project\Userinput\Userinput\obj\Debug\netcoreapp2.1\Userinput.pdb

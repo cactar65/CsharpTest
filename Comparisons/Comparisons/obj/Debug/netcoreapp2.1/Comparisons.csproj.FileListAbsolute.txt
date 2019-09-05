@@ -1,0 +1,10 @@
+C:\Users\nwalton\source\repos\Test_project\Comparisons\Comparisons\bin\Debug\netcoreapp2.1\Comparisons.deps.json
+C:\Users\nwalton\source\repos\Test_project\Comparisons\Comparisons\bin\Debug\netcoreapp2.1\Comparisons.runtimeconfig.json
+C:\Users\nwalton\source\repos\Test_project\Comparisons\Comparisons\bin\Debug\netcoreapp2.1\Comparisons.runtimeconfig.dev.json
+C:\Users\nwalton\source\repos\Test_project\Comparisons\Comparisons\bin\Debug\netcoreapp2.1\Comparisons.dll
+C:\Users\nwalton\source\repos\Test_project\Comparisons\Comparisons\bin\Debug\netcoreapp2.1\Comparisons.pdb
+C:\Users\nwalton\source\repos\Test_project\Comparisons\Comparisons\obj\Debug\netcoreapp2.1\Comparisons.csproj.CoreCompileInputs.cache
+C:\Users\nwalton\source\repos\Test_project\Comparisons\Comparisons\obj\Debug\netcoreapp2.1\Comparisons.AssemblyInfoInputs.cache
+C:\Users\nwalton\source\repos\Test_project\Comparisons\Comparisons\obj\Debug\netcoreapp2.1\Comparisons.AssemblyInfo.cs
+C:\Users\nwalton\source\repos\Test_project\Comparisons\Comparisons\obj\Debug\netcoreapp2.1\Comparisons.dll
+C:\Users\nwalton\source\repos\Test_project\Comparisons\Comparisons\obj\Debug\netcoreapp2.1\Comparisons.pdb

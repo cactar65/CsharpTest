@@ -1,0 +1,11 @@
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\bin\Debug\netcoreapp2.1\IfStatements.deps.json
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\bin\Debug\netcoreapp2.1\IfStatements.runtimeconfig.json
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\bin\Debug\netcoreapp2.1\IfStatements.runtimeconfig.dev.json
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\bin\Debug\netcoreapp2.1\IfStatements.dll
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\bin\Debug\netcoreapp2.1\IfStatements.pdb
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\obj\Debug\netcoreapp2.1\IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\obj\Debug\netcoreapp2.1\IfStatements.AssemblyInfoInputs.cache
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\obj\Debug\netcoreapp2.1\IfStatements.AssemblyInfo.cs
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\obj\Debug\netcoreapp2.1\IfStatements.dll
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\obj\Debug\netcoreapp2.1\IfStatements.pdb
+C:\Users\nwalton\source\repos\Test_project\IfStatements\IfStatements\obj\Debug\netcoreapp2.1\IfStatements.csprojAssemblyReference.cache

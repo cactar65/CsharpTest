@@ -1,0 +1,10 @@
+C:\Users\nwalton\source\repos\Test_project\ReturnMethod\ReturnMethod\bin\Debug\netcoreapp2.1\ReturnMethod.deps.json
+C:\Users\nwalton\source\repos\Test_project\ReturnMethod\ReturnMethod\bin\Debug\netcoreapp2.1\ReturnMethod.runtimeconfig.json
+C:\Users\nwalton\source\repos\Test_project\ReturnMethod\ReturnMethod\bin\Debug\netcoreapp2.1\ReturnMethod.runtimeconfig.dev.json
+C:\Users\nwalton\source\repos\Test_project\ReturnMethod\ReturnMethod\bin\Debug\netcoreapp2.1\ReturnMethod.dll
+C:\Users\nwalton\source\repos\Test_project\ReturnMethod\ReturnMethod\bin\Debug\netcoreapp2.1\ReturnMethod.pdb
+C:\Users\nwalton\source\repos\Test_project\ReturnMethod\ReturnMethod\obj\Debug\netcoreapp2.1\ReturnMethod.csproj.CoreCompileInputs.cache
+C:\Users\nwalton\source\repos\Test_project\ReturnMethod\ReturnMethod\obj\Debug\netcoreapp2.1\ReturnMethod.AssemblyInfoInputs.cache
+C:\Users\nwalton\source\repos\Test_project\ReturnMethod\ReturnMethod\obj\Debug\netcoreapp2.1\ReturnMethod.AssemblyInfo.cs
+C:\Users\nwalton\source\repos\Test_project\ReturnMethod\ReturnMethod\obj\Debug\netcoreapp2.1\ReturnMethod.dll
+C:\Users\nwalton\source\repos\Test_project\ReturnMethod\ReturnMethod\obj\Debug\netcoreapp2.1\ReturnMethod.pdb

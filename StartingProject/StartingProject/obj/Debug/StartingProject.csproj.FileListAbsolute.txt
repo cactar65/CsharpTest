@@ -1,0 +1,7 @@
+C:\Users\nwalton\source\repos\Test_project\StartingProject\StartingProject\bin\Debug\StartingProject.exe.config
+C:\Users\nwalton\source\repos\Test_project\StartingProject\StartingProject\bin\Debug\StartingProject.exe
+C:\Users\nwalton\source\repos\Test_project\StartingProject\StartingProject\bin\Debug\StartingProject.pdb
+C:\Users\nwalton\source\repos\Test_project\StartingProject\StartingProject\obj\Debug\StartingProject.csprojAssemblyReference.cache
+C:\Users\nwalton\source\repos\Test_project\StartingProject\StartingProject\obj\Debug\StartingProject.csproj.CoreCompileInputs.cache
+C:\Users\nwalton\source\repos\Test_project\StartingProject\StartingProject\obj\Debug\StartingProject.exe
+C:\Users\nwalton\source\repos\Test_project\StartingProject\StartingProject\obj\Debug\StartingProject.pdb
